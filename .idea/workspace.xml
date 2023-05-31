@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b87bc083-4942-435d-a52a-6bb6728d4465" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleProducer.java" afterDir="false" />
+    <list default="true" id="b87bc083-4942-435d-a52a-6bb6728d4465" name="Changes" comment="Feat: SimpleProducer.java 추가&#10;&#10;1. 프로듀서의 기본적인 형태">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
@@ -75,11 +74,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685548105245</updated>
-      <workItem from="1685548106791" duration="1777000" />
+      <workItem from="1685548106791" duration="2494000" />
     </task>
+    <task id="LOCAL-00001" summary="Feat: SimpleProducer.java 추가&#10;&#10;1. 프로듀서의 기본적인 형태">
+      <created>1685549972611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685549972611</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: SimpleProducer.java 추가&#10;&#10;1. 프로듀서의 기본적인 형태" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: SimpleProducer.java 추가&#10;&#10;1. 프로듀서의 기본적인 형태" />
   </component>
 </project>
